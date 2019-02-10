@@ -1,1 +1,1 @@
-# rstudio-cognito-example
+# shiny-cognito-example
